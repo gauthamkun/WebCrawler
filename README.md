@@ -12,3 +12,4 @@ Steps to run the application:
 4. Enter the url 
 5. Since there is no stop condition it will execute until all the URLs are scraped
 
+Worked from 3:30 to 5:45 on Wednesday,09/03/2022
