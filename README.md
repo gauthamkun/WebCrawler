@@ -1,6 +1,7 @@
 # WebCrawler
 
 Requirements:
+
 1.Python 3.X.X
 2.Libraries:bs4, urlib, time, requests
 
